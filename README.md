@@ -1,6 +1,6 @@
 #### Using installer
  ```
- curl -sSf https://raw.githubusercontent.com/fulvius31/OneShot_Termux_installer/master/installer.sh | bash
+ curl -sSf https://raw.githubusercontent.com/Rakib-12/OneShot_Termux_installer/master/installer.sh | bash
  ``
  
 
