@@ -2,7 +2,7 @@
 
 
 
-#### Using installer Command:
+### installer Command:
 
 pkg upgrade 
 
@@ -29,7 +29,7 @@ sudo python OneShot/oneshot.py -i wlan0 -K
 ```
  
 
-## Find Me on Telegram : @Kirito_x_0
+## Find Me on Telegram : [@Kirito_x_](https://t.me/Kirito_x_)
 
 ## Thanks to:
 * `rofl0r` for initial implementation;
