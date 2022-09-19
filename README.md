@@ -1,7 +1,6 @@
-#### Using installer
- ```
+#### Using installer Command:
+
  curl -sSf https://raw.githubusercontent.com/Rakib-12/OneShot_Termux_installer/master/installer.sh | bash
- ``
  
 
 ## Special Thanks
